@@ -1,0 +1,11 @@
+C:\Users\Client 0819\Desktop\Projects\Booking\bin\Debug\netcoreapp3.0\Booking.exe
+C:\Users\Client 0819\Desktop\Projects\Booking\bin\Debug\netcoreapp3.0\Booking.deps.json
+C:\Users\Client 0819\Desktop\Projects\Booking\bin\Debug\netcoreapp3.0\Booking.runtimeconfig.json
+C:\Users\Client 0819\Desktop\Projects\Booking\bin\Debug\netcoreapp3.0\Booking.runtimeconfig.dev.json
+C:\Users\Client 0819\Desktop\Projects\Booking\bin\Debug\netcoreapp3.0\Booking.dll
+C:\Users\Client 0819\Desktop\Projects\Booking\bin\Debug\netcoreapp3.0\Booking.pdb
+C:\Users\Client 0819\Desktop\Projects\Booking\obj\Debug\netcoreapp3.0\Booking.csprojAssemblyReference.cache
+C:\Users\Client 0819\Desktop\Projects\Booking\obj\Debug\netcoreapp3.0\Booking.AssemblyInfoInputs.cache
+C:\Users\Client 0819\Desktop\Projects\Booking\obj\Debug\netcoreapp3.0\Booking.AssemblyInfo.cs
+C:\Users\Client 0819\Desktop\Projects\Booking\obj\Debug\netcoreapp3.0\Booking.dll
+C:\Users\Client 0819\Desktop\Projects\Booking\obj\Debug\netcoreapp3.0\Booking.pdb

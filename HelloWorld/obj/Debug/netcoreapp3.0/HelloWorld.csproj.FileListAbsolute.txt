@@ -1,0 +1,11 @@
+c:\Users\Client 0819\Desktop\Projects\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.exe
+C:\Users\Client 0819\Desktop\Projects\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.deps.json
+C:\Users\Client 0819\Desktop\Projects\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.runtimeconfig.json
+C:\Users\Client 0819\Desktop\Projects\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.runtimeconfig.dev.json
+c:\Users\Client 0819\Desktop\Projects\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.dll
+c:\Users\Client 0819\Desktop\Projects\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.pdb
+c:\Users\Client 0819\Desktop\Projects\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.csprojAssemblyReference.cache
+c:\Users\Client 0819\Desktop\Projects\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.AssemblyInfoInputs.cache
+c:\Users\Client 0819\Desktop\Projects\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.AssemblyInfo.cs
+c:\Users\Client 0819\Desktop\Projects\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.dll
+c:\Users\Client 0819\Desktop\Projects\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.pdb

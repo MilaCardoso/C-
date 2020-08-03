@@ -1,0 +1,3 @@
+C:\Users\Client 0819\Desktop\Projects\Questions\obj\Debug\netcoreapp3.0\Questions.csprojAssemblyReference.cache
+C:\Users\Client 0819\Desktop\Projects\Questions\obj\Debug\netcoreapp3.0\Questions.AssemblyInfoInputs.cache
+C:\Users\Client 0819\Desktop\Projects\Questions\obj\Debug\netcoreapp3.0\Questions.AssemblyInfo.cs

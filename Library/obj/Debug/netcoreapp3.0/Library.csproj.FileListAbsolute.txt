@@ -1,0 +1,11 @@
+C:\Users\Client 0819\source\repos\Library\bin\Debug\netcoreapp3.0\Library.exe
+C:\Users\Client 0819\source\repos\Library\bin\Debug\netcoreapp3.0\Library.deps.json
+C:\Users\Client 0819\source\repos\Library\bin\Debug\netcoreapp3.0\Library.runtimeconfig.json
+C:\Users\Client 0819\source\repos\Library\bin\Debug\netcoreapp3.0\Library.runtimeconfig.dev.json
+C:\Users\Client 0819\source\repos\Library\bin\Debug\netcoreapp3.0\Library.dll
+C:\Users\Client 0819\source\repos\Library\bin\Debug\netcoreapp3.0\Library.pdb
+C:\Users\Client 0819\source\repos\Library\obj\Debug\netcoreapp3.0\Library.csprojAssemblyReference.cache
+C:\Users\Client 0819\source\repos\Library\obj\Debug\netcoreapp3.0\Library.AssemblyInfoInputs.cache
+C:\Users\Client 0819\source\repos\Library\obj\Debug\netcoreapp3.0\Library.AssemblyInfo.cs
+C:\Users\Client 0819\source\repos\Library\obj\Debug\netcoreapp3.0\Library.dll
+C:\Users\Client 0819\source\repos\Library\obj\Debug\netcoreapp3.0\Library.pdb

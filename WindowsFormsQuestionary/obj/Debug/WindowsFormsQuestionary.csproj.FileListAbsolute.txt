@@ -1,0 +1,9 @@
+C:\Users\Client 0819\source\repos\WindowsFormsQuestionary\bin\Debug\WindowsFormsQuestionary.exe.config
+C:\Users\Client 0819\source\repos\WindowsFormsQuestionary\bin\Debug\WindowsFormsQuestionary.exe
+C:\Users\Client 0819\source\repos\WindowsFormsQuestionary\bin\Debug\WindowsFormsQuestionary.pdb
+C:\Users\Client 0819\source\repos\WindowsFormsQuestionary\obj\Debug\WindowsFormsQuestionary.csprojAssemblyReference.cache
+C:\Users\Client 0819\source\repos\WindowsFormsQuestionary\obj\Debug\WindowsFormsQuestionary.Form1.resources
+C:\Users\Client 0819\source\repos\WindowsFormsQuestionary\obj\Debug\WindowsFormsQuestionary.Properties.Resources.resources
+C:\Users\Client 0819\source\repos\WindowsFormsQuestionary\obj\Debug\WindowsFormsQuestionary.csproj.GenerateResource.cache
+C:\Users\Client 0819\source\repos\WindowsFormsQuestionary\obj\Debug\WindowsFormsQuestionary.exe
+C:\Users\Client 0819\source\repos\WindowsFormsQuestionary\obj\Debug\WindowsFormsQuestionary.pdb

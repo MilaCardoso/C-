@@ -1,0 +1,107 @@
+https://www.w3schools.com/sql/sql_examples.asp
+
+Request 1
+SELECT  Employees.Last_Name, Employees.First_Name, Employees.Employee_No
+		FROM 
+		Employees
+		LEFT JOIN Jobs ON Jobs.Job_ID = Employees.Job_ID
+		WHERE Employees.Hire_Date <= '1991-05-21' AND Jobs.Job_Title = "Programmer"
+		ORDER BY Employees.Last_Name  ASC	
+		
+Request 2
+SELECT  Last_Name, Annual_Salary
+		FROM 
+		Employees
+		WHERE Hire_Date BETWEEN "1987-09-16" AND "1996-05-12"
+		ORDER BY Department_No, Last_Name ASC
+		
+Request 3
+SELECT  *
+		FROM 
+		Jobs
+		WHERE Max_Salary > 15000
+		ORDER BY Max_Salary DESC
+		
+Request 4
+SELECT  Last_Name, First_Name, Job_ID, Commission_Percent
+		FROM 
+		Employees
+		WHERE Commission_Percent IS NOT NULL
+		ORDER BY Last_Name, First_Name  ASC
+		
+Request 5
+SELECT Jobs.Job_Title
+FROM Jobs
+LEFT JOIN Job_History ON Job_History.Job_ID = Jobs.Job_ID
+LEFT JOIN Departments ON Departments.Department_No = Job_History.Department_No
+WHERE Departments.Department_Name = 'IT' OR 
+	  Departments.Department_Name = 'Sales'
+
+Request 6
+SELECT Last_Name, CAST(Annual_Salary/12 as decimal (10,2)) 
+AS Monthly_Salary 
+FROM Employees
+WHERE Department_No = 50  OR Department_No = 90
+ORDER BY Last_Name ASC
+
+Request 7
+SELECT CAST(SUM(Annual_Salary)AS DECIMAL (10,0)) AS Sum_of_Salary 
+FROM Employees
+
+Request 8
+SELECT COUNT(Employee_No) AS Number_of_Employees FROM Employees
+
+Request 9
+SELECT Departments.Department_No, Departments.Department_Name, COUNT(Employee_No) AS Number_of_Employees
+FROM Departments
+LEFT JOIN Employees ON Employees.Department_No = Departments.Department_No
+GROUP BY Departments.Department_No, Departments.Department_Name
+HAVING COUNT(*) > 2
+
+Request 10
+SELECT Departments.Department_No, Departments.Department_Name, COUNT(Employee_No) AS Number_of_Employees
+FROM Departments
+LEFT JOIN Employees ON Employees.Department_No = Departments.Department_No
+GROUP BY Departments.Department_No, Departments.Department_Name
+ORDER BY COUNT(*) DESC
+
+Request 11
+SELECT Departments.Department_No, Departments.Department_Name
+FROM Departments
+WHERE Department_No != 50
+
+Request 12
+INSERT INTO JOBS (Job_ID, Job_Title, Min_Salary, Max_Salary)
+VALUES ("IT_ANAL", "System Analyst", 10000, 15000)
+
+Request 13
+UPDATE JOBS SET Max_Salary = Max_Salary + 1000
+
+Request 14
+SELECT * FROM Jobs
+ORDER BY Job_ID ASC
+
+Request 15
+a:
+DELETE FROM Job_History
+WHERE Employee_No = 102
+
+b:
+SELECT * FROM Job_History
+ORDER BY Employee_No ASC
+
+Request 16
+SELECT
+CASE 
+	WHEN Employees.Department_No IN (20,10) THEN "5%"
+	WHEN Employees.Department_No IN (50, 80, 90, 110) THEN "10%"
+	ELSE "0%"
+END AS Percent,
+ Employee_No, Annual_Salary AS Old_Salary ,
+CASE 
+	WHEN Employees.Department_No IN (20,10) THEN Annual_Salary * 1.05
+	WHEN Employees.Department_No IN (50, 80, 90, 110) THEN Annual_Salary * 1.10
+	ELSE Annual_Salary
+END AS New_Salary
+
+FROM Employees

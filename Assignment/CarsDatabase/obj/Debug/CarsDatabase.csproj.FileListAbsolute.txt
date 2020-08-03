@@ -1,0 +1,63 @@
+C:\Users\Client 0819\source\repos\Assignment\Assignment\bin\Debug\x86\sqlite3.dll
+C:\Users\Client 0819\source\repos\Assignment\Assignment\bin\Debug\x64\sqlite3.dll
+C:\Users\Client 0819\source\repos\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Client 0819\source\repos\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Client 0819\source\repos\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Client 0819\source\repos\Assignment\Assignment\bin\Debug\EntityFramework.dll
+C:\Users\Client 0819\source\repos\Assignment\Assignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Client 0819\source\repos\Assignment\Assignment\bin\Debug\System.Data.SQLite.dll
+C:\Users\Client 0819\source\repos\Assignment\Assignment\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Client 0819\source\repos\Assignment\Assignment\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Client 0819\source\repos\Assignment\Assignment\bin\Debug\EntityFramework.xml
+C:\Users\Client 0819\source\repos\Assignment\Assignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Client 0819\source\repos\Assignment\Assignment\bin\Debug\System.Data.SQLite.xml
+C:\Users\Client 0819\source\repos\Assignment\Assignment\obj\Debug\CarsDatabase.csprojAssemblyReference.cache
+C:\Users\Client 0819\source\repos\Assignment\Assignment\obj\Debug\Assignment.FrmCars.resources
+C:\Users\Client 0819\source\repos\Assignment\Assignment\obj\Debug\Assignment.FrmSearch.resources
+C:\Users\Client 0819\source\repos\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Client 0819\source\repos\Assignment\Assignment\obj\Debug\CarsDatabase.csproj.GenerateResource.cache
+C:\Users\Client 0819\source\repos\Assignment\Assignment\obj\Debug\CarsDatabase.csproj.CopyComplete
+C:\Users\Client 0819\source\repos\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Client 0819\source\repos\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.csprojAssemblyReference.cache
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\obj\Debug\Assignment.exe
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\obj\Debug\Assignment.pdb
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\bin\Debug\x86\sqlite3.dll
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\bin\Debug\x64\sqlite3.dll
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\bin\Debug\Assignment.exe.config
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\bin\Debug\Assignment.exe
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\bin\Debug\Assignment.pdb
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\bin\Debug\System.Data.SQLite.dll
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\bin\Debug\System.Data.SQLite.xml
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\obj\Debug\Assignment.FrmCars.resources
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\obj\Debug\Assignment.FrmSearch.resources
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.csproj.GenerateResource.cache
+C:\Users\Client 0819\source\repos\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.csproj.CopyComplete
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\bin\Debug\x86\sqlite3.dll
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\bin\Debug\x64\sqlite3.dll
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\bin\Debug\Assignment.exe.config
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\bin\Debug\Assignment.exe
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\bin\Debug\Assignment.pdb
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\bin\Debug\System.Data.SQLite.dll
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\bin\Debug\System.Data.SQLite.xml
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.csprojAssemblyReference.cache
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\obj\Debug\Assignment.FrmCars.resources
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\obj\Debug\Assignment.FrmSearch.resources
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.csproj.GenerateResource.cache
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\obj\Debug\CarsDatabase.csproj.CopyComplete
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\obj\Debug\Assignment.exe
+C:\Users\Camila\Desktop\FIT\C#\CarsDatabase\CarsDatabase\obj\Debug\Assignment.pdb
